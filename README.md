@@ -1,2 +1,3 @@
 # awesome-anime-stream-download
-Awesome anime streaming/downloading websites list
+
+Compilation of all anime streaming/downloading websites
