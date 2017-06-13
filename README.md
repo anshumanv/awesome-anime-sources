@@ -57,3 +57,4 @@ Compilation of all anime streaming/downloading websites.
 
 * [soulreaperzone.com](http://www.soulreaperzone.com/)
 * [animeout.xyz](https://www.animeout.xyz/)
+* [animecruzers.com](http://animecruzers.com/)
