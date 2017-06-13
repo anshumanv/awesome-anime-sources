@@ -62,3 +62,4 @@ Compilation of all anime streaming/downloading websites.
 * [animesubtitle.com](http://animesubtitle.com/)
 * [hi10anime.com](http://hi10anime.com/)
 * [anime2enjoy.com](http://anime2enjoy.com/)
+* [darklegends60mb.org](http://www.darklegends60mb.org/)
