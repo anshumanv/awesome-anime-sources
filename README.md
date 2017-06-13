@@ -16,13 +16,13 @@ Compilation of all anime streaming/downloading websites.
 
 ## Contents
 
-* [kissanime](http://kissanime.ru/)
-* [gogoanime](https://ww1.gogoanime.io/)
-* [chia-anime](http://www.chia-anime.tv/)
-* [soul-anime](http://www13.soul-anime.us/)
-* [animeget](http://animeget.io/)
-* [animecross](http://www.animecross.net/)
-* [animered](http://animered.me/)
-* [anime-rebirth](http://anime-rebirth.com/)
-* [animeultima](http://www.animeultima.io/)
-* [animerush](http://www.animerush.tv/)
+* [kissanime.ru](http://kissanime.ru/)
+* [gogoanime.io](https://ww1.gogoanime.io/)
+* [chia-anime.tv](http://www.chia-anime.tv/)
+* [soul-anime.us](http://www13.soul-anime.us/)
+* [animeget.io](http://animeget.io/)
+* [animecross.net](http://www.animecross.net/)
+* [animered.me](http://animered.me/)
+* [anime-rebirth.com](http://anime-rebirth.com/)
+* [animeultima.io](http://www.animeultima.io/)
+* [animerush.tv](http://www.animerush.tv/)
