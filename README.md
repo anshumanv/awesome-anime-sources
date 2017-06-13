@@ -60,3 +60,4 @@ Compilation of all anime streaming/downloading websites.
 * [animecruzers.com](http://animecruzers.com/)
 * [animechiby.com](http://www.animechiby.com/)
 * [animesubtitle.com](http://animesubtitle.com/)
+* [hi10anime.com](http://hi10anime.com/)
