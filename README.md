@@ -49,3 +49,5 @@ Compilation of all anime streaming/downloading websites.
 * [animeonlinehere.net](http://animeonlinehere.net/)
 * [animedreaming.tv](http://www.animedreaming.tv/)
 * [animeseed.com](http://animeseed.com/)
+* [anime1.com](http://www.anime1.com/)
+* [daisuki.net](https://www.daisuki.net/)
