@@ -56,3 +56,4 @@ Compilation of all anime streaming/downloading websites.
 #### Downlaod Encoded MKV format
 
 * [soulreaperzone.com](http://www.soulreaperzone.com/)
+* [animeout.xyz](https://www.animeout.xyz/)
