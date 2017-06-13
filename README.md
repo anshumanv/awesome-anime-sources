@@ -12,7 +12,6 @@ Compilation of all anime streaming/downloading websites.
 * Free anime websites are always struggling with copyright claims, file an issue if a broken link is encountered.
 * I am NOT in any way promoting the use of free anime websites. 
 
-* []()
 
 ## Contents
 
