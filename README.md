@@ -61,3 +61,4 @@ Compilation of all anime streaming/downloading websites.
 * [animechiby.com](http://www.animechiby.com/)
 * [animesubtitle.com](http://animesubtitle.com/)
 * [hi10anime.com](http://hi10anime.com/)
+* [anime2enjoy.com](http://anime2enjoy.com/)
