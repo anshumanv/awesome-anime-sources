@@ -33,3 +33,12 @@ Compilation of all anime streaming/downloading websites.
 * [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [station.f-n.me](https://station.f-n.me/)
+* [animeshow.tv](http://animeshow.tv/)
+* [animenova.org](http://animenova.org/)
+* [getanime.to](http://getanime.to/)
+* [animeflavour.com](http://animeflavor.com/)
+* [dubbedtv.tv](http://www.dubbedtv.tv/)
+* [animeseason.com](http://www.animeseason.com/)
+* [animefrost.co](http://animefrost.co/)
+* [animeonhand.com](http://www.animeonhand.com/)
+* [goodanime.co](http://www.goodanime.co/)
