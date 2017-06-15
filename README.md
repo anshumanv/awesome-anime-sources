@@ -56,6 +56,7 @@ Compilation of all anime streaming/downloading websites.
 
 * [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
 * [animetorrents.me](https://animetorrents.me/)
+* [tokyotosho.info](https://www.tokyotosho.info/)
 
 
 ### Downlaod Encoded MKV format
