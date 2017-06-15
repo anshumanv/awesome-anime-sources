@@ -30,7 +30,6 @@ Compilation of all anime streaming/downloading websites.
 * [lovemyanime.net](http://www.lovemyanime.net/)
 * [animetv.to](https://www2.animetv.to/)
 * [masterani.me](https://www.masterani.me/)
-* [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [station.f-n.me](https://station.f-n.me/)
 * [animeshow.tv](http://animeshow.tv/)
@@ -53,7 +52,13 @@ Compilation of all anime streaming/downloading websites.
 * [daisuki.net](https://www.daisuki.net/)
 
 
-#### Downlaod Encoded MKV format
+### Torrents
+
+* [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
+* [animetorrents.me](https://animetorrents.me/)
+
+
+### Downlaod Encoded MKV format
 
 * [soulreaperzone.com](http://www.soulreaperzone.com/)
 * [animeout.xyz](https://www.animeout.xyz/)
