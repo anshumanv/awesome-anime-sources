@@ -50,7 +50,7 @@ Compilation of all anime streaming/downloading websites.
 * [animeseed.com](http://animeseed.com/)
 * [anime1.com](http://www.anime1.com/)
 * [daisuki.net](https://www.daisuki.net/)
-
+* [thehylia.com](https://anime.thehylia.com/)
 
 ### Torrents
 
