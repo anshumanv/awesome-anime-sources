@@ -58,6 +58,7 @@ Compilation of all anime streaming/downloading websites.
 * [animetorrents.me](https://animetorrents.me/)
 * [tokyotosho.info](https://www.tokyotosho.info/)
 * [anirena.com](https://www.anirena.com/)
+* [minglong.org](http://tracker.minglong.org:8080/)
 
 
 ### Downlaod Encoded MKV format
