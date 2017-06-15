@@ -60,6 +60,7 @@ Compilation of all anime streaming/downloading websites.
 * [anirena.com](https://www.anirena.com/)
 * [minglong.org](http://tracker.minglong.org:8080/)
 * [anisearch.ru](https://anisearch.ru/)
+* [anidex.info](https://anidex.info/)
 
 
 ### Downlaod Encoded MKV format
