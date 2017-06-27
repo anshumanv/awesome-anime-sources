@@ -5,7 +5,7 @@ Compilation of all anime streaming/downloading websites.
 ### Motivation
 
 * Rather than having all anime websites bookmarked, access them all from one place.
-* Keeping tons of alternatives in case when our favourite anime website is down.
+* Keeping tons of alternatives in case our favourite anime website is down.
 
 ### NOTE:
 
