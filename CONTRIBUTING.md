@@ -1,6 +1,8 @@
 # Contribution Guidelines
 
-Your contributions are always welcome.
+Your contributions and suggestions are always welcome.
+
+### Add new content  
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -12,4 +14,6 @@ Please ensure your pull request adheres to the following guidelines:
 ```
 - Send a pull request.
 
-Thank you!
+### Found a broken link ?  
+
+- Just open an issue or send a PR for it's fix !
