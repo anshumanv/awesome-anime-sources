@@ -1,4 +1,4 @@
-# Awesome Anime Stream/Download
+# Awesome-Anime
 
 A curated list of anime streaming/downloading websites.
 
