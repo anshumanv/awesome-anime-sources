@@ -7,10 +7,10 @@ A curated list of anime streaming/downloading websites.
 * Rather than having all anime websites bookmarked, access them all from one place.
 * Keeping tons of alternatives in case our favourite anime website is down.
 
-### NOTE:
+#### NOTE :
 
 * Free anime websites are always struggling with copyright claims, file an issue if a broken link is encountered.
-* I am NOT in any way promoting the use of free anime websites. 
+* I am **NOT** promoting the use of free anime websites by any means. 
 
 
 
