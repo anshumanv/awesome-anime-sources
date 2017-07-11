@@ -1,6 +1,6 @@
 # Awesome Anime Stream/Download
 
-Compilation of all anime streaming/downloading websites.
+A curated list of anime streaming/downloading websites.
 
 ### Motivation
 
