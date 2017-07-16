@@ -74,8 +74,3 @@ A curated list of anime streaming/downloading websites.
 * [anime2enjoy.com](http://anime2enjoy.com/)
 * [darklegends60mb.org](http://www.darklegends60mb.org/)
 * [animeaak.com](http://www.animeaak.com/)
-
-## License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Anshuman Verma](https://twitter.com/Anshumaniac12) has waived all copyright and related or neighboring rights to this work.
