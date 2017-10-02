@@ -16,6 +16,8 @@ A curated list of anime streaming/downloading websites.
 
 ## Contents
 
+### Anime
+
 * [kissanime.ru](http://kissanime.ru/)
 * [gogoanime.io](https://ww1.gogoanime.io/)
 * [chia-anime.tv](http://www.chia-anime.tv/)
@@ -74,3 +76,15 @@ A curated list of anime streaming/downloading websites.
 * [anime2enjoy.com](http://anime2enjoy.com/)
 * [darklegends60mb.org](http://www.darklegends60mb.org/)
 * [animeaak.com](http://www.animeaak.com/)
+
+
+### MANGA
+
+* [bato.to](http://bato.to/)
+* [mangafox.me](https://mangafox.me/)
+* [mangafreak.eu](http://mangafreak.eu/)
+* [mangastream.com](http://mangastream.com/)
+* [mangahere.co](https://www.mangahere.co/)
+* [mangapark.me](http://mangapark.me/)
+* [kissmanga.com](http://kissmanga.com/)
+* [mangapanda.com](http://www.mangapanda.com/)
