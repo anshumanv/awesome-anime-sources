@@ -89,3 +89,6 @@ A curated list of anime streaming/downloading websites.
 * [kissmanga.com](http://kissmanga.com/)
 * [mangapanda.com](http://www.mangapanda.com/)
 * [mangakakalot.com] (http://mangakakalot.com/)
+* [zingbox.me] (http://www.zingbox.me/)
+* [manganel.com] (http://manganel.com)
+* [bulumanga.com] (http://bulumanga.com/)
