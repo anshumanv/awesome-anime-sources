@@ -88,3 +88,4 @@ A curated list of anime streaming/downloading websites.
 * [mangapark.me](http://mangapark.me/)
 * [kissmanga.com](http://kissmanga.com/)
 * [mangapanda.com](http://www.mangapanda.com/)
+* [mangakakalot.com] (http://mangakakalot.com/)
