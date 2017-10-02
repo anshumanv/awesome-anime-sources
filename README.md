@@ -74,3 +74,18 @@ A curated list of anime streaming/downloading websites.
 * [anime2enjoy.com](http://anime2enjoy.com/)
 * [darklegends60mb.org](http://www.darklegends60mb.org/)
 * [animeaak.com](http://www.animeaak.com/)
+
+
+### FREE MANGA WEBSITES 
+
+* [bato.to](http://bato.to/)
+* [mangafox.me](https://mangafox.me/)
+* [mangafreak.eu](http://mangafreak.eu/)
+* [mangastream.com](http://mangastream.com/)
+* [mangahere.co](https://www.mangahere.co/)
+* [mangapark.me](http://mangapark.me/)
+* [kissmanga.com](http://kissmanga.com/)
+* [mangapanda.com](http://www.mangapanda.com/)
+* [mangareader.net](http://www.mangareader.net/)
+
+
