@@ -98,5 +98,19 @@ A curated list of anime streaming/downloading websites.
 * [mangastream.com](http://mangastream.com/)
 * [zingbox.me](http://www.zingbox.me/)
 
+
+<strong>##Private Torrent Trackers</strong>
+* [animebytes.tv](http://animebytes.tv)
+* [monoke-bt.org](http://mononoke-bt.org)
+* [unionfansub.com](http://unionfansub.com)
+* [tracker.tekeremata.org](http://tracker.tekeremata.org)
+* [bt.omda-fansubs.com](http://bt.omda-fansubs.com)
+* [tracker.uniotaku.com](http://tracker.uniotaku.com)
+* [tracker.revanime.net](http://tracker.revanime.net)
+* [animelayer.ru](http://animelayer.ru)
+* [tr.anidub.com](http://tr.anidub.com)
+* [opendub.org](http://opendub.org)
+
+
 ### MANGA (mobile app)
 * [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
