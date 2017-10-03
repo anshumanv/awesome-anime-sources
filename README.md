@@ -54,6 +54,9 @@ A curated list of anime streaming/downloading websites.
 * [anime1.com](http://www.anime1.com/)
 * [daisuki.net](https://www.daisuki.net/)
 * [thehylia.com](https://anime.thehylia.com/)
+* [animestreams.tv](https://animestreams.tv/)
+* [anime-planet.com](https://www.anime-planet.com/)
+* [cartooncrazy.net](http://ww1.cartooncrazy.net/)
 
 ### Torrents
 
