@@ -100,7 +100,6 @@ A curated list of anime streaming/downloading websites.
 
 
 ##Private Torrent Trackers
-* [anime-index.org](http://anime-index.org/)
 * [animebytes.tv](http://animebytes.tv)
 * [monoke-bt.org](http://mononoke-bt.org)
 * [unionfansub.com](http://unionfansub.com)
@@ -108,11 +107,9 @@ A curated list of anime streaming/downloading websites.
 * [bt.omda-fansubs.com](http://bt.omda-fansubs.com)
 * [tracker.uniotaku.com](http://tracker.uniotaku.com)
 * [tracker.revanime.net](http://tracker.revanime.net)
-* [animetorrent.pl](http://animetorrent.pl)
 * [animelayer.ru](http://animelayer.ru)
 * [tr.anidub.com](http://tr.anidub.com)
 * [opendub.org](http://opendub.org)
-* [animeland.su](http://animeland.su)
 
 
 ### MANGA (mobile app)
