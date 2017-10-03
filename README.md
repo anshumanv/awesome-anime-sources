@@ -21,6 +21,7 @@ A curated list of anime streaming/downloading websites.
 * [kissanime.ru](http://kissanime.ru/)
 * [gogoanime.io](https://ww1.gogoanime.io/)
 * [chia-anime.tv](http://www.chia-anime.tv/)
+* [chiaanime.co](http://www.chiaanime.co/)
 * [soul-anime.us](http://www13.soul-anime.us/)
 * [animeget.io](http://animeget.io/)
 * [animecross.net](http://www.animecross.net/)
@@ -65,7 +66,7 @@ A curated list of anime streaming/downloading websites.
 * [anidex.info](https://anidex.info/)
 
 
-### Downlaod Encoded MKV format
+### Download Encoded MKV format
 
 * [soulreaperzone.com](http://www.soulreaperzone.com/)
 * [animeout.xyz](https://www.animeout.xyz/)
@@ -92,3 +93,6 @@ A curated list of anime streaming/downloading websites.
 * [zingbox.me](http://www.zingbox.me/)
 * [manganel.com](http://manganel.com)
 * [bulumanga.com](http://bulumanga.com/)
+
+### MANGA (mobile app)
+* [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
