@@ -92,3 +92,4 @@ A curated list of anime streaming/downloading websites.
 * [zingbox.me](http://www.zingbox.me/)
 * [manganel.com](http://manganel.com)
 * [bulumanga.com](http://bulumanga.com/)
+* [mangareader.net](http://www.mangareader.net/)
