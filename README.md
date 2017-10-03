@@ -93,6 +93,7 @@ A curated list of anime streaming/downloading websites.
 * [zingbox.me](http://www.zingbox.me/)
 * [manganel.com](http://manganel.com)
 * [bulumanga.com](http://bulumanga.com/)
+* [mangareader.net](http://www.mangareader.net/)
 
 ### MANGA (mobile app)
 * [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
