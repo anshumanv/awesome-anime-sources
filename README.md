@@ -69,7 +69,7 @@ A curated list of anime streaming/downloading websites.
 * [tokyotosho.info](https://www.tokyotosho.info/)
 
 
-### Downlaod Encoded MKV format
+### Download Encoded MKV format
 
 * [anime2enjoy.com](http://anime2enjoy.com/)
 * [animechiby.com](http://www.animechiby.com/)
