@@ -99,7 +99,7 @@ A curated list of anime streaming/downloading websites.
 * [zingbox.me](http://www.zingbox.me/)
 
 
-##Private Torrent Trackers
+<strong>##Private Torrent Trackers</strong>
 * [animebytes.tv](http://animebytes.tv)
 * [monoke-bt.org](http://mononoke-bt.org)
 * [unionfansub.com](http://unionfansub.com)
