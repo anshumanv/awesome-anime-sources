@@ -57,6 +57,7 @@ A curated list of anime streaming/downloading websites.
 * [soul-anime.us](http://www13.soul-anime.us/)
 * [station.f-n.me](https://station.f-n.me/)
 * [thehylia.com](https://anime.thehylia.com/)
+* [animepahe.com](https://animepahe.com/)
 
 ### Torrents
 
