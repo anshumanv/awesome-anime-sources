@@ -81,6 +81,8 @@ A curated list of anime streaming/downloading websites.
 * [darklegends60mb.org](http://www.darklegends60mb.org/)
 * [hi10anime.com](http://hi10anime.com/)
 * [soulreaperzone.com](http://www.soulreaperzone.com/)
+* [animencodes.com](http://animencodes.com)
+* [animeworldbd.com](http://animeworldbd.com)
 
 
 ### MANGA
