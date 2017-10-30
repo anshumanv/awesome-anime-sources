@@ -59,6 +59,9 @@ A curated list of anime streaming/downloading websites.
 * [thehylia.com](https://anime.thehylia.com/)
 * [animepahe.com](https://animepahe.com/)
 
+### Anime (mobile app)
+* [Anime HD Watch - Kissanime](https://play.google.com/store/apps/details?id=com.pg.kissanimenew&hl=en)
+
 ### Torrents
 
 * [anidex.info](https://anidex.info/)
