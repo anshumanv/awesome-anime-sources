@@ -72,6 +72,8 @@ A curated list of anime streaming/downloading websites.
 * [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
 * [minglong.org](http://tracker.minglong.org:8080/)
 * [tokyotosho.info](https://www.tokyotosho.info/)
+* [nyaa.si](https://nyaa.si/)
+* [nyaapantsu](https://nyaa.pantsu.cat/)
 
 
 ### Download Encoded MKV format
