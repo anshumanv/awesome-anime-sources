@@ -73,6 +73,10 @@ A curated list of anime streaming/downloading websites.
 * [minglong.org](http://tracker.minglong.org:8080/)
 * [tokyotosho.info](https://www.tokyotosho.info/)
 
+ #### Private trackers
+  
+ * [animebytes.tv](https://animebytes.tv/)
+ * [animetorrents.me](https://animetorrents.me/)
 
 ### Download Encoded MKV format
 
