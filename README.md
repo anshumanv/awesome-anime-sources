@@ -39,7 +39,6 @@ A curated list of anime streaming/downloading websites.
 * [animeshow.tv](http://animeshow.tv/)
 * [animestreams.tv](https://animestreams.tv/)
 * [animetv.to](https://www2.animetv.to/)
-* [animeultima.io](http://www.animeultima.io/)
 * [cartooncrazy.net](http://ww1.cartooncrazy.net/)
 * [chia-anime.tv](http://www.chia-anime.tv/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
