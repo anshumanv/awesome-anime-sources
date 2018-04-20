@@ -109,3 +109,4 @@ A curated list of anime streaming/downloading websites.
 
 ### MANGA (mobile app)
 * [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
+* [Manga Rock](https://play.google.com/store/apps/details?id=com.notabasement.mangarock.android.titan)
