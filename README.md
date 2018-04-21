@@ -75,6 +75,10 @@ A curated list of anime streaming/downloading websites.
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
 
+ #### Private trackers
+  
+ * [animebytes.tv](https://animebytes.tv/)
+ * [animetorrents.me](https://animetorrents.me/)
 
 ### Download Encoded MKV format
 
