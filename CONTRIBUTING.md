@@ -16,4 +16,4 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Found a broken link ?  
 
-- Just open an issue or send a PR for it's fix !
+- Just open an issue or send a PR for it.
