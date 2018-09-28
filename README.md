@@ -109,10 +109,13 @@ A curated list of anime streaming/downloading websites.
 * [mangapanda.com](http://www.mangapanda.com/)
 * [mangapark.me](http://mangapark.me/)
 * [mangareader.net](http://www.mangareader.net/)
+* [mangaseeonline.us](http://mangaseeonline.us/)
 * [mangastream.com](http://mangastream.com/)
+* [ReadManga Today](https://www.readmng.com/)
 * [zingbox.me](http://www.zingbox.me/)
 * [jaiminisbox.com](https://jaiminisbox.com/)
 
 ### MANGA (mobile app)
 * [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
 * [Manga Rock](https://play.google.com/store/apps/details?id=com.notabasement.mangarock.android.titan)
+* [Tachiyomi](https://github.com/inorichi/tachiyomi)
