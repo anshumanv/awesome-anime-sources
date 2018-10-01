@@ -77,6 +77,10 @@ A curated list of anime streaming/downloading websites.
 * [tokyotosho.info](https://www.tokyotosho.info/)
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
+* [animetosho](https://animetosho.org/)
+* [shanaproject](https://www.shanaproject.com/)
+* [animeultimate](http://www.anime-ultime.net/)
+* [animelayer](http://animelayer.ru/) - Site is in russian
 
 ### Private trackers
 
