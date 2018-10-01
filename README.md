@@ -43,6 +43,7 @@ A curated list of anime streaming/downloading websites.
 * [chia-anime.tv](http://www.chia-anime.tv/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [chiaanime.co](http://www.chiaanime.co/)
+* [crunchyroll.com](http://www.crunchyroll.com/)
 * [daisuki.net](https://www.daisuki.net/)
 * [dubbedtv.tv](http://www.dubbedtv.tv/)
 * [eyeonanime.com](http://eyeonanime.com/)
