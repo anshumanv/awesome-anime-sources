@@ -11,7 +11,7 @@ A curated list of anime streaming/downloading websites.
 #### NOTE:
 
 * Free anime websites are always struggling with copyright claims, file an issue if a broken link is encountered.
-* I am **NOT** promoting the use of free anime websites by any means. 
+* I am **NOT** promoting the use of free anime websites by any means.
 
 
 ## Contents
@@ -60,6 +60,7 @@ A curated list of anime streaming/downloading websites.
 * [animepahe.com](https://animepahe.com/)
 * [animekaizoku.com](https://animekaizoku.com/)
 * [animeram.cc](https://ww2.animeram.cc/)
+* [anitube.site](https://www.anitube.site/)
 
 ### Anime (mobile app)
 * [Anime HD Watch - Kissanime](https://play.google.com/store/apps/details?id=com.pg.kissanimenew&hl=en)
@@ -77,7 +78,7 @@ A curated list of anime streaming/downloading websites.
 * [nyaapantsu](https://nyaa.pantsu.cat/)
 
 ### Private trackers
-  
+
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
 
