@@ -29,9 +29,12 @@ A curated list of anime streaming/downloading websites.
 * [animeflavour.com](http://animeflavor.com/)
 * [animefrost.co](http://animefrost.co/)
 * [animeget.io](http://animeget.io/)
+* [animekaizoku.com](https://animekaizoku.com/)
 * [animenova.org](http://animenova.org/)
 * [animeonhand.com](http://www.animeonhand.com/)
 * [animeonlinehere.net](http://animeonlinehere.net/)
+* [animepahe.com](https://animepahe.com/)
+* [animeram.cc](https://ww2.animeram.cc/)
 * [animered.me](http://animered.me/)
 * [animerush.tv](http://www.animerush.tv/)
 * [animeseason.com](http://www.animeseason.com/)
@@ -39,6 +42,7 @@ A curated list of anime streaming/downloading websites.
 * [animeshow.tv](http://animeshow.tv/)
 * [animestreams.tv](https://animestreams.tv/)
 * [animetv.to](https://www2.animetv.to/)
+* [anitube.site](https://www.anitube.site/)
 * [cartooncrazy.net](http://ww1.cartooncrazy.net/)
 * [chia-anime.tv](http://www.chia-anime.tv/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
@@ -58,10 +62,7 @@ A curated list of anime streaming/downloading websites.
 * [soul-anime.us](http://www13.soul-anime.us/)
 * [station.f-n.me](https://station.f-n.me/)
 * [thehylia.com](https://anime.thehylia.com/)
-* [animepahe.com](https://animepahe.com/)
-* [animekaizoku.com](https://animekaizoku.com/)
-* [animeram.cc](https://ww2.animeram.cc/)
-* [anitube.site](https://www.anitube.site/)
+* [watchcartoononline.io](https://www.watchcartoononline.io/)
 
 ### Anime (mobile app)
 * [Anime HD Watch - Kissanime](https://play.google.com/store/apps/details?id=com.pg.kissanimenew&hl=en)
@@ -86,22 +87,22 @@ A curated list of anime streaming/downloading websites.
 ### Download Encoded MKV format
 
 * [anime2enjoy.com](http://anime2enjoy.com/)
+* [animeaak.com](http://www.animeaak.com/)
 * [animechiby.com](http://www.animechiby.com/)
 * [animecruzers.com](http://animecruzers.com/)
+* [animencodes.com](http://animencodes.com)
 * [animeout.xyz](https://www.animeout.xyz/)
 * [animesubtitle.com](http://animesubtitle.com/)
-* [animeaak.com](http://www.animeaak.com/)
+* [animeworldbd.com](http://animeworldbd.com)
 * [darklegends60mb.org](http://www.darklegends60mb.org/)
 * [hi10anime.com](http://hi10anime.com/)
 * [soulreaperzone.com](http://www.soulreaperzone.com/)
-* [animencodes.com](http://animencodes.com)
-* [animeworldbd.com](http://animeworldbd.com)
-
 
 ### MANGA
 
 * [bato.to](http://bato.to/)
 * [bulumanga.com](http://bulumanga.com/)
+* [jaiminisbox.com](https://jaiminisbox.com/)
 * [kissmanga.com](http://kissmanga.com/)
 * [mangafox.me](https://mangafox.me/)
 * [mangafreak.eu](http://mangafreak.eu/)
@@ -115,7 +116,6 @@ A curated list of anime streaming/downloading websites.
 * [mangastream.com](http://mangastream.com/)
 * [ReadManga Today](https://www.readmng.com/)
 * [zingbox.me](http://www.zingbox.me/)
-* [jaiminisbox.com](https://jaiminisbox.com/)
 
 ### MANGA (mobile app)
 * [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
