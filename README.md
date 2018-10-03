@@ -27,6 +27,7 @@ A curated list of anime streaming/downloading websites.
 * [animecross.net](http://www.animecross.net/)
 * [animedreaming.tv](http://www.animedreaming.tv/)
 * [animeflavour.com](http://animeflavor.com/)
+* [animefreak.tv](http://www.animefreak.tv/)
 * [animefrost.co](http://animefrost.co/)
 * [animeget.io](http://animeget.io/)
 * [animekaizoku.com](https://animekaizoku.com/)
