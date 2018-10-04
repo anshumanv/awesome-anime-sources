@@ -64,7 +64,6 @@ A curated list of anime streaming/downloading websites.
 * [station.f-n.me](https://station.f-n.me/)
 * [thehylia.com](https://anime.thehylia.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
-* [viewster.com](https://www.viewster.com/)
 
 ### Anime (mobile app)
 * [Anime HD Watch - Kissanime](https://play.google.com/store/apps/details?id=com.pg.kissanimenew&hl=en)
