@@ -66,7 +66,7 @@ A curated list of anime streaming/downloading websites.
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 
 ### Anime (mobile app)
-* [Anime HD Watch - Kissanime](https://play.google.com/store/apps/details?id=com.pg.kissanimenew&hl=en)
+* [#Animania](http://www.mobi24.net/#anime)
 
 ### Torrents
 
