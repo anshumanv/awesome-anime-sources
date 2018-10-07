@@ -69,7 +69,7 @@ A curated list of anime streaming/downloading websites.
 * [#Animania](http://www.mobi24.net/#anime)
 
 ### Torrents
-
+* [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
 * [animetorrents.me](https://animetorrents.me/)
 * [anirena.com](https://www.anirena.com/)
