@@ -53,7 +53,7 @@ A curated list of anime streaming/downloading websites.
 * [dubbedtv.tv](http://www.dubbedtv.tv/)
 * [eyeonanime.com](http://eyeonanime.com/)
 * [getanime.to](http://getanime.to/)
-* [gogoanime.io](https://ww1.gogoanime.io/)
+* [gogoanime.io](https://www1.gogoanime.sh/)
 * [goodanime.co](http://www.goodanime.co/)
 * [haruhichan.com](http://haruhichan.com/)
 * [kissanime.ru](http://kissanime.ru/)
