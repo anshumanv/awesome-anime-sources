@@ -21,6 +21,7 @@ A curated list of anime streaming/downloading websites.
 * [9anime.to](https://www2.9anime.to/)
 * [ani-premium.com](http://ani-premium.com/)
 * [anilinkz.to](http://anilinkz.to/)
+* [anime-loads.org](https://www.anime-loads.org/)
 * [anime-planet.com](https://www.anime-planet.com/)
 * [anime-rebirth.com](http://anime-rebirth.com/)
 * [anime1.com](http://www.anime1.com/)
