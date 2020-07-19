@@ -45,6 +45,7 @@ A curated list of anime streaming/downloading websites.
 * [animestreams.tv](https://animestreams.tv/)
 * [animetv.to](https://www2.animetv.to/)
 * [anitube.site](https://www.anitube.site/)
+* [aniwatch.me](https://aniwatch.me/) - Really smooth experience with continuation of episodes from the point user left and auto next episode
 * [cartooncrazy.net](http://ww1.cartooncrazy.net/)
 * [chia-anime.tv](http://www.chia-anime.tv/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
