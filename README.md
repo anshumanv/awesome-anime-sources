@@ -31,7 +31,6 @@ A curated list of anime streaming/downloading websites.
 * [animefreak.tv](http://www.animefreak.tv/)
 * [animefrost.co](http://animefrost.co/)
 * [animeget.io](http://animeget.io/)
-* [animekaizoku.com](https://animekaizoku.com/)
 * [animenova.org](http://animenova.org/)
 * [animeonhand.com](http://www.animeonhand.com/)
 * [animeonlinehere.net](http://animeonlinehere.net/)
@@ -86,6 +85,7 @@ A curated list of anime streaming/downloading websites.
 
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
+ * [bakabt.me](https://www.bakabt.me/)
 
 ### Download Encoded MKV format
 
@@ -94,6 +94,8 @@ A curated list of anime streaming/downloading websites.
 * [animechiby.com](http://www.animechiby.com/)
 * [animecruzers.com](http://animecruzers.com/)
 * [animencodes.com](http://animencodes.com)
+* [animekaizoku.com](https://animekaizoku.com/)
+* [animekayo.com](https://animekayo.com/)
 * [animeout.xyz](https://www.animeout.xyz/)
 * [animesubtitle.com](http://animesubtitle.com/)
 * [animeworldbd.com](http://animeworldbd.com)
