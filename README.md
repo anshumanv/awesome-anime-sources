@@ -85,7 +85,7 @@ A curated list of anime streaming/downloading websites.
 
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
- * [bakabt.me](https://www.bakabt.me/)
+ * [bakabt.me](https://www.bakabt.me/) - Read this for Sign up [https://wiki.bakabt.me/index.php/Sign_up](https://wiki.bakabt.me/index.php/Sign_up)
 
 ### Download Encoded MKV format
 
