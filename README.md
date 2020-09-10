@@ -59,7 +59,6 @@ A curated list of anime streaming/downloading websites.
 * [darkanime.stream](https://darkanime.stream)
 * [dubbedtv.tv](https://www.dubbedtv.tv/)
 * [gogoanime.io](https://www1.gogoanime.sh/)
-* [haruhichan.com](https://haruhichan.com/)**
 * [justdubs.org](https://justdubs.org)
 * [kawaiifu.com](https://kawaiifu.com)
 * [kaa.si](https://kaa.si)
@@ -77,7 +76,6 @@ A curated list of anime streaming/downloading websites.
 ### Downloading
 
 ### DDL
-
 * [anime8.ru](https://anime8.ru/) (Downloading and Streaming)
 * [anime2enjoy.com](https://anime2enjoy.com/)
 * [anichiraku.ru](https://anichiraku.ru/)
@@ -107,17 +105,24 @@ A curated list of anime streaming/downloading websites.
 * [nyaapantsu](https://nyaa.pantsu.cat/)
 
 #### Private trackers
-
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
  * [bakabt.me](https://bakabt.me) (If you want to get a bakabt account, you should go to their irc which is #BakaBT on Rizon, and take a queue number for getting reviewed.)
-### Useful apps/programs about anime (Mobile/PC)
+
+### Useful apps/programs about Anime.
+
+#### Mobile
 * [#Animania](https://www.mobi24.net/#anime)
-
-
-
+* [Anyme](https://zunjae.github.io/anymeapp.com)
+* [AnimeDLR](https://github.com/cylonu87/AnimeDLR)
+* [Animeglare](https://animeglare.xyz)
+* [9Animator](https://nineanimator.marcuszhou.com/)
+* [Taiyaki](https://github.com/Michael24884/TaiYaKiAnime)
+* [Animeboya](https://github.com/Tu2l/Animeboya)
+* [AnimeZone](https://github.com/spyderbibek/Anime-Zone)
+* [AniMixPlay](https://play.google.com/store/apps/details?id=xyz.appmaker.pundoc)
+* [FireAnime](https://github.com/XenTeckzX/FireAnime)
 ### MANGA
-
 * [bato.to](https://bato.to/)
 * [bulumanga.com](https://bulumanga.com/)
 * [fanfox.net](https://fanfox.net/)
@@ -134,3 +139,9 @@ A curated list of anime streaming/downloading websites.
 ### MANGA (mobile app)
 * [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
+
+## News
+[haruhichan.com](https://haruhichan.com/)
+[animenewsnetwork.com](https://animenewsnetwork.com)
+[manga.tokyo/](https://manga.tokyo/)
+[otakuusamagazine.com](https://otakuusamagazine.com)
