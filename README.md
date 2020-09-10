@@ -21,7 +21,7 @@ A curated list of anime streaming/downloading websites.
 ### Streaming
 * [9anime.to](https://www2.9anime.to/)
 * [anime1.com](https://www.anime1.com/)
-* [anime8.ru](https://anime8.ru/)**
+* [anime8.ru](https://anime8.ru/)(Downloading and Streaming)
 * [animebam.se](https://www.animebam.se)
 * [animedaisuki.moe](https://animedaisuki.moe/)
 * [animedao.to](https://animedao.to/)
@@ -47,7 +47,6 @@ A curated list of anime streaming/downloading websites.
 * [animesimple.com](https://animesimple.com)	
 * [animetake.tv](https://animetake.tv)
 * [anitube.site](https://www.anitube.site/)
-* [animekaizoku.com](https://animekaizoku.com/)
 * [animeultima.to](https://animeultima.to)
 * [animevibe.tv](https://animevibe.tv/)
 * [animixplay.to](https://animixplay.to)
@@ -70,14 +69,33 @@ A curated list of anime streaming/downloading websites.
 * [sganime.org](https://sganime.org)
 * [simpleyaweeb.com](https://simplyaweeb.com/series/)
 * [otaku-streamers.com](https://otaku-streamers.com/)
-* [thehylia.com](https://anime.thehylia.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 * [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
 * [twist.moe](https://twist.moe)
 
+### Downloading
 
+### DDL
+
+* [anime8.ru](https://anime8.ru/) (Downloading and Streaming)
+* [anime2enjoy.com](https://anime2enjoy.com/)
+* [anichiraku.ru](https://anichiraku.ru/)
+* [anidl.org](https://anidl.org)
+* [animekaizoku.com](https://animekaizoku.com/)
+* [animechiby.com](https://www.animechiby.com/)
+* [animekayo.com](https://animekayo.com)
+* [animencodes.com](https://animencodes.com)
+* [animeout.xyz](https://www.animeout.xyz/)
+* [erai-raws.info](https://erai-raws.info)
+* [darklegends60mb.org](https://www.darklegends60mb.org/)
+* [hi10anime.com](https://hi10anime.com/)
+* [soulreaperzone.com](https://www.soulreaperzone.com/)
+* [thehylia.com](https://anime.thehylia.com/)
+* [nibl.co.uk](https://nibl.co.uk/bots.php)(irc)
 ### Torrents
+
+#### Publick Trackers
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
 * [anirena.com](https://www.anirena.com/)
@@ -88,7 +106,7 @@ A curated list of anime streaming/downloading websites.
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
 
-### Private trackers
+#### Private trackers
 
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
@@ -96,15 +114,7 @@ A curated list of anime streaming/downloading websites.
 ### Useful apps/programs about anime (Mobile/PC)
 * [#Animania](https://www.mobi24.net/#anime)
 
-### Download Encoded MKV format
 
-* [anime2enjoy.com](https://anime2enjoy.com/)
-* [animechiby.com](https://www.animechiby.com/)
-* [animencodes.com](https://animencodes.com)
-* [animeout.xyz](https://www.animeout.xyz/)
-* [darklegends60mb.org](https://www.darklegends60mb.org/)
-* [hi10anime.com](https://hi10anime.com/)
-* [soulreaperzone.com](https://www.soulreaperzone.com/)
 
 ### MANGA
 
