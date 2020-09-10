@@ -88,6 +88,7 @@ A curated list of anime streaming/downloading websites.
 * [mangapanda.com](http://www.mangapanda.com/)
 * [mangapark.net](http://mangapark.net/)
 * [mangareader.net](http://www.mangareader.net/)
+* [mangasee123.com](https://mangasee123.com/)
 * [ReadManga Today](https://www.readmng.com/)
 
 ### MANGA (mobile app)
