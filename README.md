@@ -14,47 +14,78 @@ A curated list of anime streaming/downloading websites.
 * I am **NOT** promoting the use of free anime websites by any means.
 
 
-## Contents
+# Contents
 
-### Anime
+## Anime
 
+### Streaming
 * [9anime.to](https://www2.9anime.to/)
-* [anilinkz.to](http://anilinkz.to/)
+* [anime1.com](https://www.anime1.com/)
+* [anime8.ru](https://anime8.ru/)**
+* [animebam.se](https://www.animebam.se)
+* [animedaisuki.moe](https://animedaisuki.moe/)
+* [animedao.to](https://animedao.to/)
+* [animefever.tv](https://www.animefever.tv/)
+* [animefreak.tv](https://www.animefreak.tv/)
+* [animeflix.io](https://animeflix.io/)
+* [animefrenzy.net](https://animefrenzy.net/]
+* [animehub.ac](https://animehub.ac)
+* [animekisa.tv](https://animekisa.tv)
+* [animelon.com](https://animelon.com
+* [anilinkz.to](https://anilinkz.to/)
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
-* [anime-planet.com](https://www.anime-planet.com/)
-* [anime1.com](http://www.anime1.com/)
-* [animefreak.tv](http://www.animefreak.tv/)
-* [animekaizoku.com](https://animekaizoku.com/)
 * [animepahe.com](https://animepahe.com/)
+* [anime-planet.com](https://www.anime-planet.com/)
+* [animepill.com](https://animepill.com)
 * [animeram.cc](https://ww2.animeram.cc/)
-* [animered.me](http://animered.me/)
-* [animerush.tv](http://www.animerush.tv/)
-* [animeshow.tv](http://animeshow.tv/)
+* [animered.me](https://animered.me/)
+* [animereborn.net](https://animereborn.net)
+* [animerush.tv](https://www.animerush.tv/)
+* [animesa.ga](https://animesa.ga)
+* [animeseries.io](https://animeseries.io)
+* [animeshow.tv](https://animeshow.tv)
+* [animesimple.com](https://animesimple.com)	
+* [animetake.tv](https://animetake.tv)
 * [anitube.site](https://www.anitube.site/)
+* [animekaizoku.com](https://animekaizoku.com/)
+* [animeultima.to](https://animeultima.to)
+* [animevibe.tv](https://animevibe.tv/]
+* [animixplay.to](https://animixplay.to]
 * [aniwatch.me](https://aniwatch.me/) - Really smooth experience with continuation of episodes from the point user left and auto next episode
-* [cartooncrazy.net](http://ww1.cartooncrazy.net/)
-* [chia-anime.tv](http://www.chia-anime.tv/)
+* [aniwatcher.com](https://animewatcher.com)
+* [cartooncrazy.net](https://ww1.cartooncrazy.net/)
+* [chia-anime.tv](https://www.chia-anime.tv/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
-* [crunchyroll.com](http://www.crunchyroll.com/)
-* [dubbedtv.tv](http://www.dubbedtv.tv/)
+* [crunchyroll.com](https://www.crunchyroll.com/)
+* [darkanime.stream](https://darkanime.stream]
+* [dubbedtv.tv](https://www.dubbedtv.tv/)
 * [gogoanime.io](https://www1.gogoanime.sh/)
-* [haruhichan.com](http://haruhichan.com/)
+* [haruhichan.com](https://haruhichan.com/)**
+* [justdubs.org](https://justdubs.org]
+* [kawaiifu.com](https://kawaiifu.com]
+* [kaa.si](https://kaa.si]
+* [kimcartoon.to](https://kimcartoon.to)
+* [proxer.me](https://proxer.me) - Contains German Subs
+* [ryuanime.com](https://ryuanime.com)
+* [sganime.org](https://sganime.org)
+* [simpleyaweeb.com}(https://simplyaweeb.com/series/)
 * [otaku-streamers.com](https://otaku-streamers.com/)
 * [thehylia.com](https://anime.thehylia.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
-* [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
+* [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
+* [twist.moe](https://twist.moe)
 
 ### Anime (mobile app)
-* [#Animania](http://www.mobi24.net/#anime)
+* [#Animania](https://www.mobi24.net/#anime)
 
 ### Torrents
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
 * [anirena.com](https://www.anirena.com/)
 * [anisearch.ru](https://anisearch.ru/)
-* [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
-* [minglong.org](http://tracker.minglong.org:8080/)
+* [horriblesubs.info](https://horriblesubs.info/) - Best anime torrents.
+* [minglong.org](https://tracker.minglong.org:8080/)
 * [tokyotosho.info](https://www.tokyotosho.info/)
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
@@ -68,26 +99,26 @@ A curated list of anime streaming/downloading websites.
 
 ### Download Encoded MKV format
 
-* [anime2enjoy.com](http://anime2enjoy.com/)
-* [animechiby.com](http://www.animechiby.com/)
-* [animencodes.com](http://animencodes.com)
+* [anime2enjoy.com](https://anime2enjoy.com/)
+* [animechiby.com](https://www.animechiby.com/)
+* [animencodes.com](https://animencodes.com)
 * [animeout.xyz](https://www.animeout.xyz/)
-* [darklegends60mb.org](http://www.darklegends60mb.org/)
-* [hi10anime.com](http://hi10anime.com/)
-* [soulreaperzone.com](http://www.soulreaperzone.com/)
+* [darklegends60mb.org](https://www.darklegends60mb.org/)
+* [hi10anime.com](https://hi10anime.com/)
+* [soulreaperzone.com](https://www.soulreaperzone.com/)
 
 ### MANGA
 
-* [bato.to](http://bato.to/)
-* [bulumanga.com](http://bulumanga.com/)
+* [bato.to](https://bato.to/)
+* [bulumanga.com](https://bulumanga.com/)
 * [fanfox.net](https://fanfox.net/)
-* [mangafreak.eu](http://mangafreak.eu/)
+* [mangafreak.eu](https://mangafreak.eu/)
 * [mangahere.cc](https://mangahere.cc/)
-* [mangakakalot.com](http://mangakakalot.com/)
+* [mangakakalot.com](https://mangakakalot.com/)
 * [manganelo.com](https://manganelo.com/)
-* [mangapanda.com](http://www.mangapanda.com/)
-* [mangapark.net](http://mangapark.net/)
-* [mangareader.net](http://www.mangareader.net/)
+* [mangapanda.com](https://www.mangapanda.com/)
+* [mangapark.net](https://mangapark.net/)
+* [mangareader.net](https://www.mangareader.net/)
 * [mangasee123.com](https://mangasee123.com/)
 * [ReadManga Today](https://www.readmng.com/)
 
