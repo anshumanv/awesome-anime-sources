@@ -84,7 +84,7 @@ A curated list of anime streaming/downloading websites.
 * [mangafreak.eu](http://mangafreak.eu/)
 * [mangahere.cc](https://mangahere.cc/)
 * [mangakakalot.com](http://mangakakalot.com/)
-* [manganelo.com](https://manganelo.com//)
+* [manganelo.com](https://manganelo.com/)
 * [mangapanda.com](http://www.mangapanda.com/)
 * [mangapark.net](http://mangapark.net/)
 * [mangareader.net](http://www.mangareader.net/)
