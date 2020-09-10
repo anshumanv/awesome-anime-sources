@@ -28,10 +28,10 @@ A curated list of anime streaming/downloading websites.
 * [animefever.tv](https://www.animefever.tv/)
 * [animefreak.tv](https://www.animefreak.tv/)
 * [animeflix.io](https://animeflix.io/)
-* [animefrenzy.net](https://animefrenzy.net/]
+* [animefrenzy.net](https://animefrenzy.net/)
 * [animehub.ac](https://animehub.ac)
 * [animekisa.tv](https://animekisa.tv)
-* [animelon.com](https://animelon.com
+* [animelon.com](https://animelon.com)
 * [anilinkz.to](https://anilinkz.to/)
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
 * [animepahe.com](https://animepahe.com/)
@@ -49,26 +49,26 @@ A curated list of anime streaming/downloading websites.
 * [anitube.site](https://www.anitube.site/)
 * [animekaizoku.com](https://animekaizoku.com/)
 * [animeultima.to](https://animeultima.to)
-* [animevibe.tv](https://animevibe.tv/]
-* [animixplay.to](https://animixplay.to]
+* [animevibe.tv](https://animevibe.tv/)
+* [animixplay.to](https://animixplay.to)
 * [aniwatch.me](https://aniwatch.me/) - Really smooth experience with continuation of episodes from the point user left and auto next episode
 * [aniwatcher.com](https://animewatcher.com)
 * [cartooncrazy.net](https://ww1.cartooncrazy.net/)
 * [chia-anime.tv](https://www.chia-anime.tv/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [crunchyroll.com](https://www.crunchyroll.com/)
-* [darkanime.stream](https://darkanime.stream]
+* [darkanime.stream](https://darkanime.stream)
 * [dubbedtv.tv](https://www.dubbedtv.tv/)
 * [gogoanime.io](https://www1.gogoanime.sh/)
 * [haruhichan.com](https://haruhichan.com/)**
-* [justdubs.org](https://justdubs.org]
-* [kawaiifu.com](https://kawaiifu.com]
-* [kaa.si](https://kaa.si]
+* [justdubs.org](https://justdubs.org)
+* [kawaiifu.com](https://kawaiifu.com)
+* [kaa.si](https://kaa.si)
 * [kimcartoon.to](https://kimcartoon.to)
 * [proxer.me](https://proxer.me) - Contains German Subs
 * [ryuanime.com](https://ryuanime.com)
 * [sganime.org](https://sganime.org)
-* [simpleyaweeb.com}(https://simplyaweeb.com/series/)
+* [simpleyaweeb.com](https://simplyaweeb.com/series/)
 * [otaku-streamers.com](https://otaku-streamers.com/)
 * [thehylia.com](https://anime.thehylia.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
