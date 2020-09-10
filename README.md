@@ -93,7 +93,7 @@ A curated list of anime streaming/downloading websites.
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
  * [bakabt.me](https://bakabt.me) (If you want to get a bakabt account, you should go to their irc which is #BakaBT on Rizon, and take a queue number for getting reviewed.)
-### Usefull apps/programs about anime (Mobile/PC)
+### Useful apps/programs about anime (Mobile/PC)
 * [#Animania](https://www.mobi24.net/#anime)
 
 ### Download Encoded MKV format
