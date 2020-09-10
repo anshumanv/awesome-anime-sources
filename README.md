@@ -53,6 +53,8 @@ A curated list of anime streaming/downloading websites.
 * [station.f-n.me](https://station.f-n.me/)
 * [thehylia.com](https://anime.thehylia.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
+* [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
+* [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 
 ### Anime (mobile app)
 * [#Animania](http://www.mobi24.net/#anime)
@@ -60,7 +62,6 @@ A curated list of anime streaming/downloading websites.
 ### Torrents
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
-* [animetorrents.me](https://animetorrents.me/)
 * [anirena.com](https://www.anirena.com/)
 * [anisearch.ru](https://anisearch.ru/)
 * [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
@@ -73,6 +74,8 @@ A curated list of anime streaming/downloading websites.
 
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
+ * [bakabt.me](https://bakabt.me) (If you want to get a bakabt account, you should go to their irc which is #BakaBT on Rizon, and take a queue number for getting reviewed.)
+
 
 ### Download Encoded MKV format
 
