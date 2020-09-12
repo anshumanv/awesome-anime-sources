@@ -130,28 +130,28 @@ A curated list of anime streaming/downloading websites.
 * [anichart.net](https://anichart.net/)
 
 ### Forums/Boards for discussing Anime
-[4chan.org](https://boards.4channel.org/a/)
-[reddit.com](reddit.com/r/anime)
-[animebase.me](https://animebase.me/)
-[animesuki.com](https://forums.animesuki.com/)
-[myanimelist.net](https://myanimelist.net/forum/)
-[anime-planet.com](https://anime-planet.com/forum)
-[anidb.net](anidb.net/forum)
-[animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
-[crunchyroll.com](https://www.crunchyroll.com/forum)
+* [4chan.org](https://boards.4channel.org/a/)
+* [reddit.com](reddit.com/r/anime)
+* [animebase.me](https://animebase.me/)
+* [animesuki.com](https://forums.animesuki.com/)
+* [myanimelist.net](https://myanimelist.net/forum/)
+* [anime-planet.com](https://anime-planet.com/forum)
+* [anidb.net](anidb.net/forum)
+* [animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
+* [crunchyroll.com](https://www.crunchyroll.com/forum)
 
 ### Useful apps/programs about Anime.
 
 #### PC
-[hakuneko](https://github.com/manga-download/hakuneko)
-[anime-downloader](https://github.com/vn-ki/anime-downloader)
-[monkey-dl](https://github.com/Oshan96/monkey-dl)
-[taiga](https://github.com/erengy/taiga)
-[kawanime](https://github.com/Kylart/KawAnime)
-[yuna](https://github.com/BeeeQueue/yuna)
-[mikazuki](https://github.com/NicoAiko/mikazuki)
-[hachidori](https://github.com/Atelier-Shiori/hachidori)
-[trackma](https://github.com/z411/trackma)
+* [hakuneko](https://github.com/manga-download/hakuneko)
+* [anime-downloader](https://github.com/vn-ki/anime-downloader)
+* [monkey-dl](https://github.com/Oshan96/monkey-dl)
+* [taiga](https://github.com/erengy/taiga)
+* [kawanime](https://github.com/Kylart/KawAnime)
+* [yuna](https://github.com/BeeeQueue/yuna)
+* [mikazuki](https://github.com/NicoAiko/mikazuki)
+* [hachidori](https://github.com/Atelier-Shiori/hachidori)
+* [trackma](https://github.com/z411/trackma)
 
 #### Mobile
 * [#Animania](https://www.mobi24.net/#anime)
@@ -164,11 +164,23 @@ A curated list of anime streaming/downloading websites.
 * [AnimeZone](https://github.com/spyderbibek/Anime-Zone)
 * [AniMixPlay](https://play.google.com/store/apps/details?id=xyz.appmaker.pundoc)
 * [FireAnime](https://github.com/XenTeckzX/FireAnime)
+* [MALClient](https://play.google.com/store/apps/details?id=com.drutol.malclient)
+* [AniTrend](https://play.google.com/store/apps/details?id=com.mxt.anitrend)
+* [LiveChart](https://play.google.com/store/apps/details?id=me.livechart.android)
+* [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
 
-### MANGA
+## MANGA
+
+### Online Reading
+* [1stkissmanga](https://1stkissmanga.com/)
+* [Chibi manga reader](https://www.cmreader.info/)
+* [Fallen Angels](https://manga.fascans.com/)
+* [Mangadex](https://mangadex.org/)
 * [bato.to](https://bato.to/)
 * [bulumanga.com](https://bulumanga.com/)
 * [fanfox.net](https://fanfox.net/)
+* [mangakomi](https://mangakomi.com/)
+* [mangaplus](https://mangaplus.shueisha.co.jp/updates) Free, Official Source for Shounen Jump Series
 * [mangafreak.eu](https://mangafreak.eu/)
 * [mangahere.cc](https://mangahere.cc/)
 * [mangakakalot.com](https://mangakakalot.com/)
@@ -178,13 +190,54 @@ A curated list of anime streaming/downloading websites.
 * [mangareader.net](https://www.mangareader.net/)
 * [mangasee123.com](https://mangasee123.com/)
 * [ReadManga Today](https://www.readmng.com/)
+* [Mangazuki](https://mangazuki.me/)
+* [readcomiconline](https://readcomiconline.to/)
+* [readm](https://readm.org/)
+* [readmanhua](https://readmanhua.net/)
+* [weebtoons](https://www.webtoons.com/en/)
+* [readmanhua](https://readmanhua.net/)
+* [WuxiaWorld](https://wuxiaworld.site/)
 
-### MANGA (mobile app)
-* [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
+### Useful Apps for Manga/Offline Reading/Online Reading
+
+#### PC
+* [hakuneko](https://github.com/manga-download/hakuneko)
+* [FMD](https://github.com/riderkick/FMD)
+* [doujindownloader](https://doujindownloader.com/)
+* [OpenComic](https://github.com/ollm/OpenComic)
+
+#### Mobile
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
+* [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) Fork of Tachiyomi but it has way better ui than tachiyomi
+* [MangaReader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
+* [Paperback](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
+* [mangazone](https://mangazoneapp.com/)
+* [Crunchyroll Manga](https://play.google.com/store/apps/details?id=com.crunchyroll.crmanga&hl=en)
+* [MangaPlus](https://play.google.com/store/apps/details?id=jp.co.shueisha.mangaplus&hl=en)
+
+### Listing/Database
+* [mangaupdates](mangaupdates.com)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [kitsu.io](https://kitsu.io)
+* [myanimelist.net](https://myanimelist.net)
+* [anilist.co](https://anilist.co)
+* [anisearch.com](https://anisearch.com)
+* [anime-planet.com](https://anime-planet.com)
+
+### Forums/Boards for discussing Manga
+* [4chan.org](https://boards.4channel.org/a/)
+* [reddit.com](reddit.com/r/manga)
+* [animebase.me](https://animebase.me/)
+* [animesuki.com](https://forums.animesuki.com/)
+* [myanimelist.net](https://myanimelist.net/forum/)
+* [anime-planet.com](https://anime-planet.com/forum)
+* [animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
+* [crunchyroll.com](https://www.crunchyroll.com/forum)
+* [mangahelpers](https://mangahelpers.com/)
+* [mangaupdates](https://www.mangaupdates.com/forums.php)
 
 ## News
-[haruhichan.com](https://haruhichan.com/)
-[animenewsnetwork.com](https://animenewsnetwork.com)
-[manga.tokyo/](https://manga.tokyo/)
-[otakuusamagazine.com](https://otakuusamagazine.com)
+* [haruhichan.com](https://haruhichan.com/)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [manga.tokyo/](https://manga.tokyo/)
+* [otakuusamagazine.com](https://otakuusamagazine.com)
