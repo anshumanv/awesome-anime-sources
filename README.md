@@ -109,9 +109,49 @@ A curated list of anime streaming/downloading websites.
  * [animetorrents.me](https://animetorrents.me/)
  * [bakabt.me](https://bakabt.me) (If you want to get a bakabt account, you should go to their irc which is #BakaBT on Rizon, and take a queue number for getting reviewed.)
 
+### Listing/Database
+* [anidb.net](https://anidb.net)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [kitsu.io](https://kitsu.io)
+* [myanimelist.net](https://myanimelist.net)
+* [anilist.co](https://anilist.co)
+* [anisearch.com](https://anisearch.com)
+* [annict.com](https://annict.com)
+* [simkl.com](https://simkl.com)
+* [anime-planet.com](https://anime-planet.com]
+
+### Schedules/Charts
+* [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
+* [anidb.net](htps://anidb.net/anime/season/?do.filter=1) Season chart
+* [anidb.net](https://anidb.net/anime/schedule/?do.filter=1) Schedule
+* [senpai.moe](https://www.senpai.moe/)
+* [anisearch.com](https://www.anisearch.com/anime/calendar)
+* [livechart.me](https://livechart.me)
+* [anichart.net](https://anichart.net/)
+
+### Forums/Boards for discussing Anime
+[4chan.org](https://boards.4channel.org/a/)
+[reddit.com](reddit.com/r/anime)
+[animebase.me](https://animebase.me/)
+[animesuki.com](https://forums.animesuki.com/)
+[myanimelist.net](https://myanimelist.net/forum/)
+[anime-planet.com](https://anime-planet.com/forum)
+[anidb.net](anidb.net/forum)
+[animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
+[crunchyroll.com](https://www.crunchyroll.com/forum)
+
 ### Useful apps/programs about Anime.
 
 #### PC
+[hakuneko](https://github.com/manga-download/hakuneko)
+[anime-downloader](https://github.com/vn-ki/anime-downloader)
+[monkey-dl](https://github.com/Oshan96/monkey-dl)
+[taiga](https://github.com/erengy/taiga)
+[kawanime](https://github.com/Kylart/KawAnime)
+[yuna](https://github.com/BeeeQueue/yuna)
+[mikazuki](https://github.com/NicoAiko/mikazuki)
+[hachidori](https://github.com/Atelier-Shiori/hachidori)
+[trackma](https://github.com/z411/trackma)
 
 #### Mobile
 * [#Animania](https://www.mobi24.net/#anime)
@@ -124,6 +164,7 @@ A curated list of anime streaming/downloading websites.
 * [AnimeZone](https://github.com/spyderbibek/Anime-Zone)
 * [AniMixPlay](https://play.google.com/store/apps/details?id=xyz.appmaker.pundoc)
 * [FireAnime](https://github.com/XenTeckzX/FireAnime)
+
 ### MANGA
 * [bato.to](https://bato.to/)
 * [bulumanga.com](https://bulumanga.com/)
