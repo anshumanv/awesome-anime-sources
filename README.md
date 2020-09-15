@@ -93,7 +93,7 @@ A curated list of anime streaming/downloading websites.
 * [nibl.co.uk](https://nibl.co.uk/bots.php)(irc)
 ### Torrents
 
-#### Publick Trackers
+#### Public Trackers
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
 * [anirena.com](https://www.anirena.com/)
