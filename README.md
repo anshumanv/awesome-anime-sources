@@ -6,6 +6,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 * Rather than having all anime websites bookmarked, access them all from one place.
 * Keeping tons of alternatives in case our favourite anime website is down.
+* All things related to anime/manga in one place
 
 
 #### NOTE:
@@ -160,7 +161,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animesuki.com](https://forums.animesuki.com/)
 * [myanimelist.net](https://myanimelist.net/forum/)
 * [anime-planet.com](https://anime-planet.com/forum)
-* [anidb.net](anidb.net/forum)
+* [anidb.net](https://anidb.net/forum)
 * [animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
 * [crunchyroll.com](https://www.crunchyroll.com/forum)
 
