@@ -21,22 +21,22 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
    * [DDL](#DDL)
   * [Torrents](#Torrents)
     * [Public Trackers](#Public-Trackers)
-    * [Private Trackers](#PrivateTrackers)
+    * [Private Trackers](#Private-Trackers)
   * [Listing/Database](#Listing/Database)
   * [Schedules/Charts](#Schedules/Charts)
   * [Forums](#Forums)
-  * [Useful apps/programs about Anime.](#Usefulapps/programsaboutAnime.)
+  * [Apps](#Apps)
     * [PC](#PC)
     * [Mobile](#Mobile)
-  * [News about Anime](#NewsaboutAnime) 
+  * [News about Anime](#News-about-Anime) 
 * [Manga](#Manga)
-  * [Online Reading](#OnlineReading)
-  * [Useful Apps for Manga/Offline Reading/Online Reading](#UsefulAppsforManga/OfflineReading/OnlineReading)
+  * [Online Reading](#Online-Reading)
+  * [Apps](#Apps)
    * [PC](#PC)
    * [Mobile](#Mobile)
  * [Listing/Database](#Listing/Database)
- * [Forums/Boards for discussing Manga](#Forums/BoardsfordiscussingManga)
- * [News about Manga](#NewsaboutManga) 
+ * [Forums](#Forums)
+ * [News about Manga](#News-about-Manga) 
 
 
 ## Anime
@@ -153,7 +153,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [livechart.me](https://livechart.me)
 * [anichart.net](https://anichart.net/)
 
-### Forums/Boards for discussing Anime
+### Forums
 * [4chan.org](https://boards.4channel.org/a/)
 * [reddit.com/r/anime](reddit.com/r/anime)
 * [animebase.me](https://animebase.me/)
@@ -164,7 +164,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
 * [crunchyroll.com](https://www.crunchyroll.com/forum)
 
-### Useful apps/programs about Anime.
+### Apps
 
 #### PC
 * [hakuneko](https://github.com/manga-download/hakuneko)
@@ -228,7 +228,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [readmanhua](https://readmanhua.net/)
 * [WuxiaWorld](https://wuxiaworld.site/)
 
-### Useful Apps for Manga/Offline Reading/Online Reading
+### Apps
 
 #### PC
 * [hakuneko](https://github.com/manga-download/hakuneko)
@@ -254,7 +254,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anisearch.com](https://anisearch.com)
 * [anime-planet.com](https://anime-planet.com)
 
-### Forums/Boards for discussing Manga
+### Forums
 * [4chan.org](https://boards.4channel.org/a/)
 * [reddit.com](reddit.com/r/manga)
 * [animebase.me](https://animebase.me/)
