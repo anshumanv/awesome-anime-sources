@@ -24,7 +24,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
     * [Private Trackers](#PrivateTrackers)
   * [Listing/Database](#Listing/Database)
   * [Schedules/Charts](#Schedules/Charts)
-  * [Forums/Boards for discussing Anime](#Forums/BoardsfordiscussingAnime)
+  * [Forums](#Forums)
   * [Useful apps/programs about Anime.](#Usefulapps/programsaboutAnime.)
     * [PC](#PC)
     * [Mobile](#Mobile)
