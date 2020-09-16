@@ -123,7 +123,7 @@ A curated list of anime streaming/downloading websites.
 ### Schedules/Charts
 * [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
 * [anidb.net/anime/season](htps://anidb.net/anime/season/?do.filter=1) Season chart
-* [anidb.net](https://anidb.net/anime/schedule/?do.filter=1) Schedule
+* [anidb.net/anime/schedule](https://anidb.net/anime/schedule/?do.filter=1) Schedule
 * [senpai.moe](https://www.senpai.moe/)
 * [anisearch.com](https://www.anisearch.com/anime/calendar)
 * [livechart.me](https://livechart.me)
