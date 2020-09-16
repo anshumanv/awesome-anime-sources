@@ -29,7 +29,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
     * [PC](####PC)
     * [Mobile](####Mobile)
   * [News about Anime](###News about Anime) 
-* [Manga](##Manga]
+* [Manga](##Manga)
   * [Online Reading](### Online Reading)
   * [Useful Apps for Manga/Offline Reading/Online Reading](###Useful Apps for Manga/Offline Reading/Online Reading)
    * [PC](####PC)
