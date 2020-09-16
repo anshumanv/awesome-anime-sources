@@ -15,7 +15,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 
 # Contents
-* [Anime](##Anime)
+* [Anime](#Anime)
  * [Streaming](###Streaming)
  * [Downloading](###Downloading)
   * [DDL](####DDL)
