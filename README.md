@@ -142,11 +142,11 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anisearch.com](https://anisearch.com)
 * [annict.com](https://annict.com)
 * [simkl.com](https://simkl.com)
-* [anime-planet.com](https://anime-planet.com]
+* [anime-planet.com](https://anime-planet.com)
 
 ### Schedules/Charts
 * [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
-* [anidb.net/anime/season](htps://anidb.net/anime/season/?do.filter=1) Season chart
+* [anidb.net/anime/season](https://anidb.net/anime/season/?do.filter=1) Season chart
 * [anidb.net/anime/schedule](https://anidb.net/anime/schedule/?do.filter=1) Schedule
 * [senpai.moe](https://www.senpai.moe/)
 * [anisearch.com](https://www.anisearch.com/anime/calendar)
