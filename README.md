@@ -15,6 +15,29 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 
 # Contents
+* [Anime](##Anime)
+ * [Streaming](###Streaming)
+ * [Downloading](###Downloading)
+  * [DDL](####DDL)
+  * [Torrents](#### Torrents)
+    * [Public Trackers](#####Public Trackers)
+    * [Private Trackers](#####Private Trackers)
+  * [Listing/Database](###Listing/Database)
+  * [Schedules/Charts](###Schedules/Charts)
+  * [Forums/Boards for discussing Anime](###Forums/Boards for discussing Anime)
+  * [Useful apps/programs about Anime.](###Useful apps/programs about Anime.)
+    * [PC](####PC)
+    * [Mobile](####Mobile)
+  * [News about Anime](###News about Anime) 
+* [Manga](##Manga]
+  * [Online Reading](### Online Reading)
+  * [Useful Apps for Manga/Offline Reading/Online Reading](###Useful Apps for Manga/Offline Reading/Online Reading)
+   * [PC](####PC)
+   * [Mobile](####Mobile)
+ * [Listing/Database](###Listing/Database)
+ * [Forums/Boards for discussing Manga](###Forums/Boards for discussing Manga)
+ * [News about Manga](###News about Manga) 
+
 
 ## Anime
 
@@ -75,7 +98,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 ### Downloading
 
-### DDL
+#### DDL
 * [anime8.ru](https://anime8.ru/) (Downloading and Streaming)
 * [anime2enjoy.com](https://anime2enjoy.com/)
 * [anichiraku.ru](https://anichiraku.ru/)
@@ -91,9 +114,10 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [soulreaperzone.com](https://www.soulreaperzone.com/)
 * [thehylia.com](https://anime.thehylia.com/)
 * [nibl.co.uk](https://nibl.co.uk/bots.php)(irc)
-### Torrents
 
-#### Public Trackers
+#### Torrents
+
+##### Public Trackers
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
 * [anirena.com](https://www.anirena.com/)
@@ -104,7 +128,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
 
-#### Private trackers
+##### Private trackers
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
  * [bakabt.me](https://bakabt.me) (If you want to get a bakabt account, you should go to their irc which is #BakaBT on Rizon, and take a queue number for getting reviewed.)
@@ -168,6 +192,12 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [AniTrend](https://play.google.com/store/apps/details?id=com.mxt.anitrend)
 * [LiveChart](https://play.google.com/store/apps/details?id=me.livechart.android)
 * [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
+
+### News about Anime
+* [haruhichan.com](https://haruhichan.com/)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [manga.tokyo/](https://manga.tokyo/)
+* [otakuusamagazine.com](https://otakuusamagazine.com)
 
 ## MANGA
 
@@ -236,7 +266,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mangahelpers](https://mangahelpers.com/)
 * [mangaupdates](https://www.mangaupdates.com/forums.php)
 
-## News
+### News about Manga
 * [haruhichan.com](https://haruhichan.com/)
 * [animenewsnetwork.com](https://animenewsnetwork.com)
 * [manga.tokyo/](https://manga.tokyo/)
