@@ -128,6 +128,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [tokyotosho.info](https://www.tokyotosho.info/)
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
+* [animelayer](http://animelayer.ru/) - Site is in russian
+* [sukebeinyaa](https://sukebei.nyaa.si/) For Hentai
+* [shanaproject](https://shanaproject.com)
 
 ##### Private trackers
  * [animebytes.tv](https://animebytes.tv/)
