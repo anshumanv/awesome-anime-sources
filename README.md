@@ -192,6 +192,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [Animeboya](https://github.com/Tu2l/Animeboya)
 * [AnimeZone](https://github.com/spyderbibek/Anime-Zone)
 * [AniMixPlay](https://play.google.com/store/apps/details?id=xyz.appmaker.pundoc)
+* [Aruppi](https://aruppi.jeluchu.com/) - Spanish
 * [FireAnime](https://github.com/XenTeckzX/FireAnime)
 * [MALClient](https://play.google.com/store/apps/details?id=com.drutol.malclient)
 * [AniTrend](https://play.google.com/store/apps/details?id=com.mxt.anitrend)
