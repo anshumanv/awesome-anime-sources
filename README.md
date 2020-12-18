@@ -52,6 +52,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animefever.tv](https://www.animefever.tv/)
 * [animefreak.tv](https://www.animefreak.tv/)
 * [animeflix.io](https://animeflix.io/)
+* [animeflv.net](https://animeflv.net/) - Spanish
 * [animefrenzy.net](https://animefrenzy.net/)
 * [animehub.ac](https://animehub.ac)
 * [animekisa.tv](https://animekisa.tv)
