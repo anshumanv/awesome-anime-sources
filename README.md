@@ -105,6 +105,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anime2enjoy.com](https://anime2enjoy.com/)
 * [anichiraku.ru](https://anichiraku.ru/)
 * [anidl.org](https://anidl.org)
+* [AnimeSub.in](https://AnimeSub.in)
 * [animekaizoku.com](https://animekaizoku.com/)
 * [animechiby.com](https://www.animechiby.com/)
 * [animekayo.com](https://animekayo.com)
