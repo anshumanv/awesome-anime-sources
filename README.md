@@ -218,6 +218,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [fanfox.net](https://fanfox.net/)
 * [mangakomi](https://mangakomi.com/)
 * [mangaplus](https://mangaplus.shueisha.co.jp/updates) Free, Official Source for Shounen Jump Series
+* [VizMedia](https://www.viz.com/shonenjump) Official Western/European Source for Shounen Jump Series (Latest 3 chapters of all series free)
 * [mangafreak.eu](https://mangafreak.eu/)
 * [mangahere.cc](https://mangahere.cc/)
 * [mangakakalot.com](https://mangakakalot.com/)
@@ -251,6 +252,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mangazone](https://mangazoneapp.com/)
 * [Crunchyroll Manga](https://play.google.com/store/apps/details?id=com.crunchyroll.crmanga&hl=en)
 * [MangaPlus](https://play.google.com/store/apps/details?id=jp.co.shueisha.mangaplus&hl=en)
+* [Shonen Jump](https://play.google.com/store/apps/details?id=com.viz.wsj.android&hl=en_GB&gl=US)
 
 ### Manga Listing/Database
 * [mangaupdates](mangaupdates.com)
