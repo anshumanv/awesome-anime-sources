@@ -83,6 +83,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [crunchyroll.com](https://www.crunchyroll.com/)
 * [darkanime.stream](https://darkanime.stream)
 * [dubbedtv.tv](https://www.dubbedtv.tv/)
+* [funimation.com](https://www.funimation.com/)
 * [gogoanime.io](https://www1.gogoanime.sh/)
 * [justdubs.org](https://justdubs.org)
 * [kawaiifu.com](https://kawaiifu.com)
