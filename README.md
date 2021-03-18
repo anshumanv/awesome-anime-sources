@@ -101,7 +101,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
     * [AniLibria.TV](http://anilibria.life/) - mirror AniLibria.TV 
     * [AniLibria.TV](https://wtf2.anilibria.cf/) - mirror AniLibria.TV
 * [AnimeVost.org](https://animevost.org/) - Russian dubbing
-* [yummyanime.club](https://yummyanime.club/catalog) - Russian dubbing
+* [yummyanime.club](https://yummyanime.club/) - Russian dubbing
 * [AniDub.com](https://online.anidub.com/) - Russian dubbing
 * [AniStar.org](https://anistar.org) - Russian dubbing
    * [AniStar.org](https://anistar.ew.r.appspot.com/)  - mirror AniStar.org
