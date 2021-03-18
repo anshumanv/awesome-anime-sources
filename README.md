@@ -149,6 +149,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [annict.com](https://annict.com)
 * [simkl.com](https://simkl.com)
 * [anime-planet.com](https://anime-planet.com)
+* [shikimori.one](https://shikimori.one/) - Russian
 
 ### Schedules/Charts
 * [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
@@ -205,6 +206,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animenewsnetwork.com](https://animenewsnetwork.com)
 * [manga.tokyo/](https://manga.tokyo/)
 * [otakuusamagazine.com](https://otakuusamagazine.com)
+* [shikimori.one](https://shikimori.one/) - Russian
 
 ## MANGA
 
@@ -235,6 +237,11 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [weebtoons](https://www.webtoons.com/en/)
 * [readmanhua](https://readmanhua.net/)
 * [WuxiaWorld](https://wuxiaworld.site/)
+* [MangaLib.me](https://mangalib.me/) - Russian
+* [desu.me](https://desu.me/) - Russian
+* [ReadManga](https://readmanga.live/) - Russian
+* [ReManga](https://remanga.org/) - Russian
+
 
 ### Apps
 
@@ -262,6 +269,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anilist.co](https://anilist.co)
 * [anisearch.com](https://anisearch.com)
 * [anime-planet.com](https://anime-planet.com)
+* [shikimori.one](https://shikimori.one/) - Russian
 
 ### Forums
 * [4chan.org](https://boards.4channel.org/a/)
@@ -280,3 +288,4 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animenewsnetwork.com](https://animenewsnetwork.com)
 * [manga.tokyo/](https://manga.tokyo/)
 * [otakuusamagazine.com](https://otakuusamagazine.com)
+* [shikimori.one](https://shikimori.one/) - Russian
