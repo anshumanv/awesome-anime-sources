@@ -259,6 +259,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [FMD](https://github.com/riderkick/FMD)
 * [doujindownloader](https://doujindownloader.com/)
 * [OpenComic](https://github.com/ollm/OpenComic)
+* [kavita](https://github.com/Kareadita/Kavita)
 
 #### Mobile
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
