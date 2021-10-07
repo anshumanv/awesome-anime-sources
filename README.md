@@ -47,6 +47,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anime1.com](https://www.anime1.com/)
 * [anime8.ru](https://anime8.ru/)(Downloading and Streaming)
 * [animebam.se](https://www.animebam.se)
+* [animebuff.ru](https://animebuff.ru/) - Russian dubbing
 * [animedaisuki.moe](https://animedaisuki.moe/)
 * [animedao.to](https://animedao.to/)
 * [animefever.tv](https://www.animefever.tv/)
