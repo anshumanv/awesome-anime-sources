@@ -251,6 +251,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [desu.me](https://desu.me/) - Russian
 * [ReadManga](https://readmanga.live/) - Russian
 * [ReManga](https://remanga.org/) - Russian
+* [MangaSco](https://mangasco.com/)
 
 
 ### Apps
