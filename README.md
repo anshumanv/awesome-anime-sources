@@ -210,6 +210,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [AniTrend](https://play.google.com/store/apps/details?id=com.mxt.anitrend)
 * [LiveChart](https://play.google.com/store/apps/details?id=me.livechart.android)
 * [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
+* [Animity](https://github.com/kl3jvi/animity)
 
 ### News about Anime
 * [haruhichan.com](https://haruhichan.com/)
