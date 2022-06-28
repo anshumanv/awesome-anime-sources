@@ -44,25 +44,16 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 ### Streaming
 * [9anime.to](https://www2.9anime.to/)
-* [anime1.com](https://www.anime1.com/)
 * [anime8.ru](https://anime8.ru/)(Downloading and Streaming)
-* [animebam.se](https://www.animebam.se)
 * [animebuff.ru](https://animebuff.ru/) - Russian dubbing
-* [animedaisuki.moe](https://animedaisuki.moe/)
 * [animedao.to](https://animedao.to/)
-* [animefever.tv](https://www.animefever.tv/)
-* [animefreak.tv](https://www.animefreak.tv/)
-* [animeflix.io](https://animeflix.io/)
 * [animeflv.net](https://animeflv.net/) - Spanish
 * [animefrenzy.net](https://animefrenzy.net/)
 * [animehub.ac](https://animehub.ac)
-* [animekisa.tv](https://animekisa.tv)
 * [animelon.com](https://animelon.com)
-* [anilinkz.to](https://anilinkz.to/)
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
 * [animepahe.com](https://animepahe.com/)
 * [anime-planet.com](https://www.anime-planet.com/)
-* [animepill.com](https://animepill.com)
 * [animeram.cc](https://ww2.animeram.cc/)
 * [animered.me](https://animered.me/)
 * [animereborn.net](https://animereborn.net)
