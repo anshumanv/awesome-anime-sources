@@ -54,12 +54,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
 * [animepahe.com](https://animepahe.com/)
 * [anime-planet.com](https://www.anime-planet.com/)
-* [animeram.cc](https://ww2.animeram.cc/)
-* [animered.me](https://animered.me/)
-* [animereborn.net](https://animereborn.net)
 * [animerush.tv](https://www.animerush.tv/)
-* [animesa.ga](https://animesa.ga)
-* [animeseries.io](https://animeseries.io)
 * [animeshow.tv](https://animeshow.tv)
 * [animesimple.com](https://animesimple.com)	
 * [animetake.tv](https://animetake.tv)
