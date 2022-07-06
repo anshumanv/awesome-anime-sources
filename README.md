@@ -218,6 +218,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mangapanda.com](https://www.mangapanda.com/)
 * [mangapark.net](https://mangapark.net/)
 * [mangareader.net](https://www.mangareader.net/)
+* [mangareader.to](https://mangareader.to/)
 * [mangasee123.com](https://mangasee123.com/)
 * [ReadManga Today](https://www.readmng.com/)
 * [Mangazuki](https://mangazuki.me/)
