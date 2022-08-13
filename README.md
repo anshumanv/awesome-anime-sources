@@ -54,6 +54,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
 * [animepahe.com](https://animepahe.com/)
 * [anime-planet.com](https://www.anime-planet.com/)
+* [animixplay.to](https://animixplay.to/)
 * [animerush.tv](https://www.animerush.tv/)
 * [animeshow.tv](https://animeshow.tv)
 * [animetake.tv](https://animetake.tv)
@@ -77,6 +78,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 * [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
 * [twist.moe](https://twist.moe)
+* [zoro.to](https://zoro.to/)
 * [AniLibria.TV](https://anilibria.tv/) - Russian dubbing
     * [AniLibria.TV](http://anilibria.life/) - mirror AniLibria.TV 
     * [AniLibria.TV](https://wtf2.anilibria.cf/) - mirror AniLibria.TV
@@ -218,6 +220,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mangapanda.com](https://www.mangapanda.com/)
 * [mangapark.net](https://mangapark.net/)
 * [mangareader.net](https://www.mangareader.net/)
+* [mangareader.to](https://mangareader.to/)
 * [mangasee123.com](https://mangasee123.com/)
 * [ReadManga Today](https://www.readmng.com/)
 * [Mangazuki](https://mangazuki.me/)
