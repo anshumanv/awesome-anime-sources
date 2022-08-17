@@ -59,11 +59,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animeshow.tv](https://animeshow.tv)
 * [animetake.tv](https://animetake.tv)
 * [anitube.site](https://www.anitube.site/)
-* [animeultima.to](https://animeultima.to)
 * [animevibe.tv](https://lite.animevibe.se/)
 * [animixplay.to](https://animixplay.to)
-* [aniwatch.me](https://aniwatch.me/) - Really smooth experience with continuation of episodes from the point user left and auto next episode
-* [cartooncrazy.net](https://www.cartooncrazy.net/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [crunchyroll.com](https://www.crunchyroll.com/)
 * [dub.animeland.tv](https://www.dub.animeland.tv/)
