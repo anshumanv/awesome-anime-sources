@@ -63,7 +63,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animixplay.to](https://animixplay.to)
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [crunchyroll.com](https://www.crunchyroll.com/)
-* [dub.animeland.tv](https://www.dub.animeland.tv/)
+* [animedubbed.me](https://animedubbed.me/)
 * [justdubs.org](https://justdubs.org)
 * [kawaiifu.com](https://kawaiifu.com)
 * [kaa.si](https://kaa.si)
