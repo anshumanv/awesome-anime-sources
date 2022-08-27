@@ -150,7 +150,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 ### Forums
 * [4chan.org](https://boards.4channel.org/a/)
-* [reddit.com/r/anime](reddit.com/r/anime)
+* [reddit.com/r/anime](https://reddit.com/r/anime)
 * [animebase.me](https://animebase.me/)
 * [animesuki.com](https://forums.animesuki.com/)
 * [myanimelist.net](https://myanimelist.net/forum/)
