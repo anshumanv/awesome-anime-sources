@@ -171,6 +171,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mikazuki](https://github.com/NicoAiko/mikazuki)
 * [hachidori](https://github.com/Atelier-Shiori/hachidori)
 * [trackma](https://github.com/z411/trackma)
+* [totoro](https://github.com/totorojs/totoro)
 
 #### Mobile
 * [#Animania](https://www.mobi24.net/#anime)
