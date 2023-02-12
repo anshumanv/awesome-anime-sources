@@ -173,15 +173,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [trackma](https://github.com/z411/trackma)
 
 #### Mobile
-* [#Animania](https://www.mobi24.net/#anime)
 * [Anyme](https://zunjae.github.io/anymeapp.com)
 * [AnimeDLR](https://github.com/cylonu87/AnimeDLR)
-* [Animeglare](https://animeglare.xyz)
 * [9Animator](https://nineanimator.marcuszhou.com/)
-* [Taiyaki](https://github.com/Michael24884/TaiYaKiAnime)
-* [Animeboya](https://github.com/Tu2l/Animeboya)
-* [AnimeZone](https://github.com/spyderbibek/Anime-Zone)
-* [AniMixPlay](https://play.google.com/store/apps/details?id=xyz.appmaker.pundoc)
 * [Aruppi](https://aruppi.jeluchu.com/) - Spanish
 * [FireAnime](https://github.com/XenTeckzX/FireAnime)
 * [MALClient](https://play.google.com/store/apps/details?id=com.drutol.malclient)
