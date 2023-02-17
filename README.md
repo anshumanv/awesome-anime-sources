@@ -162,6 +162,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 ### Apps
 
 #### PC
+* [Totoro](https://github.com/insomniachi/Totoro)
 * [hakuneko](https://github.com/manga-download/hakuneko)
 * [anime-downloader](https://github.com/vn-ki/anime-downloader)
 * [monkey-dl](https://github.com/Oshan96/monkey-dl)
