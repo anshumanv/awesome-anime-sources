@@ -162,6 +162,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 ### Apps
 
 #### PC
+* [Totoro](https://github.com/insomniachi/Totoro)
 * [hakuneko](https://github.com/manga-download/hakuneko)
 * [anime-downloader](https://github.com/vn-ki/anime-downloader)
 * [monkey-dl](https://github.com/Oshan96/monkey-dl)
@@ -173,6 +174,11 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [trackma](https://github.com/z411/trackma)
 
 #### Mobile
+* [Saikou](https://github.com/saikou-app/saikou)
+* [Cloudstream](https://github.com/recloudstream/cloudstream)
+* [Aniyomi](https://github.com/jmir1/aniyomi)
+* [Animiru](https://github.com/Quickdesh/Animiru)
+* [Kuro](https://github.com/deceptions/no)
 * [Anyme](https://zunjae.github.io/anymeapp.com)
 * [AnimeDLR](https://github.com/cylonu87/AnimeDLR)
 * [9Animator](https://nineanimator.marcuszhou.com/)
