@@ -277,6 +277,5 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 ### News about Manga
 * [haruhichan.com](https://haruhichan.com/)
 * [animenewsnetwork.com](https://animenewsnetwork.com)
-* [manga.tokyo/](https://manga.tokyo/)
 * [otakuusamagazine.com](https://otakuusamagazine.com)
 * [shikimori.one](https://shikimori.one/) - Russian
