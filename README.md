@@ -60,7 +60,6 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animetake.tv](https://animetake.tv)
 * [anitube.site](https://www.anitube.site/)
 * [animevibe.tv](https://lite.animevibe.se/)
-* [animixplay.to](https://animixplay.to)
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [crunchyroll.com](https://www.crunchyroll.com/)
 * [animedubbed.me](https://animedubbed.me/)
@@ -277,6 +276,5 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 ### News about Manga
 * [haruhichan.com](https://haruhichan.com/)
 * [animenewsnetwork.com](https://animenewsnetwork.com)
-* [manga.tokyo/](https://manga.tokyo/)
 * [otakuusamagazine.com](https://otakuusamagazine.com)
 * [shikimori.one](https://shikimori.one/) - Russian
