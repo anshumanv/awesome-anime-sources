@@ -137,6 +137,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [simkl.com](https://simkl.com)
 * [anime-planet.com](https://anime-planet.com)
 * [shikimori.one](https://shikimori.one/) - Russian
+* [kaize.io](https://kaize.io)
 
 ### Schedules/Charts
 * [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
@@ -260,6 +261,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anisearch.com](https://anisearch.com)
 * [anime-planet.com](https://anime-planet.com)
 * [shikimori.one](https://shikimori.one/) - Russian
+* [kaize.io](https://kaize.io)
 
 ### Forums
 * [4chan.org](https://boards.4channel.org/a/)
