@@ -48,7 +48,6 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animebuff.ru](https://animebuff.ru/) - Russian dubbing
 * [animedao.to](https://animedao.to/)
 * [animeflv.net](https://animeflv.net/) - Spanish
-* [animefrenzy.net](https://animefrenzy.net/)
 * [animehub.ac](https://animehub.ac)
 * [animelon.com](https://animelon.com)
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
