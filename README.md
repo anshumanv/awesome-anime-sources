@@ -44,6 +44,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 ### Streaming
 * [9anime.to](https://www2.9anime.to/)
+* [animation.filmarchives.jp](https://animation.filmarchives.jp/en/) - National Film Archive of Japan
 * [anime8.ru](https://anime8.ru/)(Downloading and Streaming)
 * [animebuff.ru](https://animebuff.ru/) - Russian dubbing
 * [animedao.to](https://animedao.to/)
