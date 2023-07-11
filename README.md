@@ -72,7 +72,6 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 * [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
-* [twist.moe](https://twist.moe)
 * [zoro.to](https://zoro.to/)
 * [AniLibria.TV](https://anilibria.tv/) - Russian dubbing
     * [AniLibria.TV](http://anilibria.life/) - mirror AniLibria.TV 
