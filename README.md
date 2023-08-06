@@ -75,7 +75,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animeultima.to](https://animeultima.to)
 * [animevibe.tv](https://animevibe.tv/)
 * [animixplay.to](https://animixplay.to)
-* [aniwatch.me](https://aniwatch.me/) - Really smooth experience with continuation of episodes from the point user left and auto next episode
+* [aniwatch.to](https://aniwatch.to/) - Previosuly zoro.tv
 * [aniwatcher.com](https://animewatcher.com)
 * [cartooncrazy.net](https://ww1.cartooncrazy.net/)
 * [chia-anime.tv](https://www.chia-anime.tv/)
