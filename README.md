@@ -37,10 +37,13 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
     * [Mobile](#Mobile)
   * [Manga Listing/Database](#Manga-ListingDatabase)
   * [Forums](#Forums)
-  * [News about Manga](#News-about-Manga) 
+  * [News about Manga](#News-about-Manga)
+* [Light Novels](#Light-Novels)
+  * [Apps](#Apps)
+    * [Mobile](#Mobile)
 
 
-## Anime
+## ANIME
 
 ### Streaming
 * [9anime.to](https://www2.9anime.to/)
@@ -274,3 +277,12 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animenewsnetwork.com](https://animenewsnetwork.com)
 * [otakuusamagazine.com](https://otakuusamagazine.com)
 * [shikimori.one](https://shikimori.one/) - Russian
+
+## LIGHT NOVELS
+
+### Apps
+
+#### Mobile
+* [LNReader](https://github.com/LNReader/lnreader)
+* [QuickNovel](https://github.com/LagradOst/QuickNovel)
+* [Shosetsu](https://shosetsu.app/)
