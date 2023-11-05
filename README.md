@@ -72,7 +72,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 * [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
-* [zoro.to](https://zoro.to/)
+* [aniwatch.to](https://aniwatch.to) Previously (zoro.to // sanji.to)
 * [AniLibria.TV](https://anilibria.tv/) - Russian dubbing
     * [AniLibria.TV](http://anilibria.life/) - mirror AniLibria.TV 
     * [AniLibria.TV](https://wtf2.anilibria.cf/) - mirror AniLibria.TV
