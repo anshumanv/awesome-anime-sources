@@ -76,6 +76,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 * [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
 * [aniwatch.to](https://aniwatch.to) Previously (zoro.to // sanji.to)
+* [Animerulz.in](https://animerulz.in). Indian Anime Streaming in Hindi Telugu Tamil
 * [AniLibria.TV](https://anilibria.tv/) - Russian dubbing
     * [AniLibria.TV](http://anilibria.life/) - mirror AniLibria.TV 
     * [AniLibria.TV](https://wtf2.anilibria.cf/) - mirror AniLibria.TV
