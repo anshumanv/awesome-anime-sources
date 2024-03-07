@@ -57,7 +57,6 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
 * [animepahe.com](https://animepahe.com/)
 * [anime-planet.com](https://www.anime-planet.com/)
-* [animixplay.to](https://animixplay.to/)
 * [animeshow.tv](https://animeshow.tv)
 * [animetake.tv](https://animetake.tv)
 * [anitube.site](https://www.anitube.site/)
