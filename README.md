@@ -160,7 +160,10 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 #### PC
 * [Totoro](https://github.com/insomniachi/Totoro)
+* [miru](https://github.com/ThaUnknown/miru)
+* [Aniluv](https://github.com/wovnep/aniluv)
 * [hakuneko](https://github.com/manga-download/hakuneko)
+* [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
 * [anime-downloader](https://github.com/vn-ki/anime-downloader)
 * [monkey-dl](https://github.com/Oshan96/monkey-dl)
 * [taiga](https://github.com/erengy/taiga)
@@ -169,13 +172,20 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mikazuki](https://github.com/NicoAiko/mikazuki)
 * [hachidori](https://github.com/Atelier-Shiori/hachidori)
 * [trackma](https://github.com/z411/trackma)
+* [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow)
+* [animos](https://github.com/Nectres/animos)
 
 #### Mobile
 * [Saikou](https://github.com/saikou-app/saikou)
 * [Cloudstream](https://github.com/recloudstream/cloudstream)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animiru](https://github.com/Quickdesh/Animiru)
+* [popcorn-android](https://github.com/popcorn-official/popcorn-android)
 * [Kuro](https://github.com/deceptions/no)
+* [Animity](https://github.com/kl3jvi/animity)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
+* [Animasi](https://github.com/6ixline/Animasi)
+* [AnimeXStream](https://github.com/mukul500/AnimeXStream)
 * [Anyme](https://zunjae.github.io/anymeapp.com)
 * [AnimeDLR](https://github.com/cylonu87/AnimeDLR)
 * [9Animator](https://nineanimator.marcuszhou.com/)
@@ -185,7 +195,13 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [AniTrend](https://play.google.com/store/apps/details?id=com.mxt.anitrend)
 * [LiveChart](https://play.google.com/store/apps/details?id=me.livechart.android)
 * [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
-* [Animity](https://github.com/kl3jvi/animity)
+* [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow)
+
+#### Android TV
+* [SaikouTV](https://github.com/Nanoc6/SaikouTV)
+* [Cloudstream](https://github.com/recloudstream/cloudstream)
+* [Kuro](https://github.com/deceptions/no)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 
 ### News about Anime
 * [haruhichan.com](https://haruhichan.com/)
@@ -242,6 +258,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 #### Mobile
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
 * [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) Fork of Tachiyomi but it has way better ui than tachiyomi
+* [Saikou](https://github.com/saikou-app/saikou)
+* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [MangaReader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
 * [Paperback](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
 * [mangazone](https://mangazoneapp.com/)
