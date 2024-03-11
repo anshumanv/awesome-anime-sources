@@ -61,6 +61,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animetake.tv](https://animetake.tv)
 * [anitube.site](https://www.anitube.site/)
 * [animevibe.ru](https://animevibe.ru/)
+* [aniwatch.to](https://aniwatch.to/home) Previously (zoro.to // sanji.to)
 * [chihiro-subs.com](https://chihiro-subs.com/)
 * [crunchyroll.com](https://www.crunchyroll.com/)
 * [animedubbed.me](https://animedubbed.me/)
@@ -74,7 +75,6 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
 * [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
-* [aniwatch.to](https://aniwatch.to) Previously (zoro.to // sanji.to)
 * [AniLibria.TV](https://anilibria.tv/) - Russian dubbing
     * [AniLibria.TV](http://anilibria.life/) - mirror AniLibria.TV 
     * [AniLibria.TV](https://wtf2.anilibria.cf/) - mirror AniLibria.TV
@@ -171,6 +171,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [trackma](https://github.com/z411/trackma)
 
 #### Mobile
+* [Anilab](https://anilab.to/) {Only avail. for Android, iOS (Coming soon)}
 * [Saikou](https://github.com/saikou-app/saikou)
 * [Cloudstream](https://github.com/recloudstream/cloudstream)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
