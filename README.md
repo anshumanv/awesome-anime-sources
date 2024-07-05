@@ -229,6 +229,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [ReManga](https://remanga.org/) - Russian
 * [MangaSco](https://mangasco.com/)
 
+### Download
+* [manga-zip.is](https://manga-zip.is/post) - Japanese RAW
 
 ### Apps
 
