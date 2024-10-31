@@ -84,6 +84,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [AniStar.org](https://anistar.org) - Russian dubbing
    * [AniStar.org](https://anistar.ew.r.appspot.com/)  - mirror AniStar.org
 * [AnimeSub.lt](https://animesub.lt) - Contains Lithuanian Dubs/Subs
+* [anime.casa](https://anime.casa/)
 
 
 ### Downloading
@@ -135,6 +136,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anime-planet.com](https://anime-planet.com)
 * [shikimori.one](https://shikimori.one/) - Russian
 * [kaize.io](https://kaize.io)
+* [anime-pfp.com](https://anime-pfp.com/)
 
 ### Schedules/Charts
 * [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
