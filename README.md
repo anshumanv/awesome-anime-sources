@@ -84,6 +84,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [AniStar.org](https://anistar.org) - Russian dubbing
    * [AniStar.org](https://anistar.ew.r.appspot.com/)  - mirror AniStar.org
 * [AnimeSub.lt](https://animesub.lt) - Contains Lithuanian Dubs/Subs
+* [Kaido](https://kaido.cc/) 
 
 
 ### Downloading
