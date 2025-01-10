@@ -242,6 +242,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 #### Mobile
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
 * [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) Fork of Tachiyomi but it has way better ui than tachiyomi
+* [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 * [MangaReader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
 * [Paperback](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
 * [mangazone](https://mangazoneapp.com/)
