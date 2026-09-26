@@ -39,6 +39,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
   * [Forums](#Forums)
   * [News about Manga](#News-about-Manga)
 * [Light Novels](#Light-Novels)
+  * [Online Reading](#Online-Reading)
   * [Apps](#Apps)
     * [Mobile](#Mobile)
 
@@ -279,6 +280,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [shikimori.one](https://shikimori.one/) - Russian
 
 ## LIGHT NOVELS
+
+### Online Reading
+* [truyenhh3d.com](https://truyenhh3d.com/) - Vietnamese
 
 ### Apps
 
