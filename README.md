@@ -135,7 +135,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anime-planet.com](https://anime-planet.com)
 * [shikimori.one](https://shikimori.one/) - Russian
 * [kaize.io](https://kaize.io)
-
+* [animegraphs.com](https://animegraphs.com)
+  
 ### Schedules/Charts
 * [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
 * [anidb.net/anime/season](https://anidb.net/anime/season/?do.filter=1) Season chart
